@@ -3,7 +3,7 @@ package values
 import (
 	"encoding/xml"
 	"errors"
-	"github.com/heindl/caldav-go/icalendar/values"
+	"github.com/cj123/caldav-go/icalendar/values"
 	"time"
 )
 

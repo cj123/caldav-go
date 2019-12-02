@@ -2,8 +2,8 @@ package values
 
 import (
 	"fmt"
-	"github.com/heindl/caldav-go/icalendar/properties"
-	"github.com/heindl/caldav-go/utils"
+	"github.com/cj123/caldav-go/icalendar/properties"
+	"github.com/cj123/caldav-go/utils"
 	"log"
 	"regexp"
 	"strconv"

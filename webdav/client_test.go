@@ -1,7 +1,7 @@
 package webdav
 
 import (
-	"github.com/heindl/caldav-go/webdav/entities"
+	"github.com/cj123/caldav-go/webdav/entities"
 	. "gopkg.in/check.v1"
 	"net/url"
 	"os"

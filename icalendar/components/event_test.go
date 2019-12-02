@@ -2,9 +2,9 @@ package components
 
 import (
 	"fmt"
-	"github.com/heindl/caldav-go/icalendar"
-	"github.com/heindl/caldav-go/icalendar/values"
-	. "github.com/taviti/check"
+	"github.com/cj123/caldav-go/icalendar"
+	"github.com/cj123/caldav-go/icalendar/values"
+	. "gopkg.in/check.v1"
 	"net/url"
 	"testing"
 	"time"

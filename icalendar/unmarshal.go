@@ -2,8 +2,8 @@ package icalendar
 
 import (
 	"fmt"
-	"github.com/heindl/caldav-go/icalendar/properties"
-	"github.com/heindl/caldav-go/utils"
+	"github.com/cj123/caldav-go/icalendar/properties"
+	"github.com/cj123/caldav-go/utils"
 	"log"
 	"reflect"
 	"regexp"
@@ -42,8 +42,6 @@ func tokenizeSlice(slice []string, name ...string) (*token, error) {
 	tok.components = make(map[string][]*token, 0)
 
 	for i := 0; i < size; i++ {
-
-
 
 		// Handle iCalendar's space-indented line break format
 		// See: https://www.ietf.org/rfc/rfc2445.txt section 4.1

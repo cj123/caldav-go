@@ -1,8 +1,8 @@
 package values
 
 import (
-	"github.com/heindl/caldav-go/icalendar/properties"
-	"github.com/heindl/caldav-go/utils"
+	"github.com/cj123/caldav-go/icalendar/properties"
+	"github.com/cj123/caldav-go/utils"
 	"net/url"
 )
 

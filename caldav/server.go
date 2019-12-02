@@ -1,8 +1,8 @@
 package caldav
 
 import (
-	"github.com/heindl/caldav-go/utils"
-	"github.com/heindl/caldav-go/webdav"
+	"github.com/cj123/caldav-go/utils"
+	"github.com/cj123/caldav-go/webdav"
 )
 
 // a server that accepts CalDAV requests

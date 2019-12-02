@@ -2,8 +2,8 @@ package components
 
 import (
 	"fmt"
-	"github.com/heindl/caldav-go/icalendar/values"
-	"github.com/heindl/caldav-go/utils"
+	"github.com/cj123/caldav-go/icalendar/values"
+	"github.com/cj123/caldav-go/utils"
 	"time"
 )
 

@@ -2,8 +2,8 @@ package webdav
 
 import (
 	"encoding/xml"
-	"github.com/heindl/caldav-go/http"
-	"github.com/heindl/caldav-go/utils"
+	"github.com/cj123/caldav-go/http"
+	"github.com/cj123/caldav-go/utils"
 	"io/ioutil"
 	"log"
 	"strings"

@@ -2,9 +2,9 @@ package entities
 
 import (
 	"encoding/xml"
-	"github.com/heindl/caldav-go/caldav/values"
-	"github.com/heindl/caldav-go/utils"
-	"github.com/heindl/caldav-go/webdav/entities"
+	"github.com/cj123/caldav-go/caldav/values"
+	"github.com/cj123/caldav-go/utils"
+	"github.com/cj123/caldav-go/webdav/entities"
 	"time"
 )
 
